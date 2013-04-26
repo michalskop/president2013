@@ -1,6 +1,6 @@
 <?php
 
-$www_path = "http://localhost/michal/project/president2013/www/";
+include "settings.php";
 
 // put full path to Smarty.class.php
 require('/usr/local/lib/php/Smarty/libs/Smarty.class.php');

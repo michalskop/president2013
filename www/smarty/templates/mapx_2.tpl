@@ -6,7 +6,7 @@
   <!-- chart -->
   <p id="{$chart_id}"></p>
   <p>{$description}</p>
-  <p><em><a href="image/{$map_id}.png" data-ajax="false">Cartogram in png</a></em></p>
+  <p><em><a href="image/{$map_id}.png" data-ajax="false">This cartogram in png</a></em></p>
   <script src="http://d3js.org/d3.v3.min.js"></script>
   <script type="text/javascript">
   {literal}
