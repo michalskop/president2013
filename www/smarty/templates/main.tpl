@@ -53,7 +53,7 @@
 		  {block name=contentprimary}{/block}
 		</div>
 	<div data-role="footer" class="footer-docs" data-theme="c">
-			<p>Michal Škop: Czech presidential elections 2013 in cartograms on municipality level. 2013. <a href="http://skop.eu/president-2013">http://skop.eu/president-2013</a></p>
+			<p>Michal Škop: Czech presidential elections 2013 in cartograms on municipality level. 2013. <a href="http://skop.eu/president-2013">http://skop.eu/czech-presidential-elections-2013</a></p>
 	</div>
 
 </div>

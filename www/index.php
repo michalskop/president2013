@@ -7,7 +7,7 @@ require('/usr/local/lib/php/Smarty/libs/Smarty.class.php');
 $smarty = new Smarty();
 $smarty->setTemplateDir('./smarty/templates');
 $smarty->setCompileDir('./smarty/templates_c');
-$smarty->error_reporting = E_ALL & ~E_NOTICE;
+//$smarty->error_reporting = E_ALL & ~E_NOTICE;
 
 $allowed_maps = array(
 	'map1:1' => 'region=cz&election=president_2013&width=650&size=35',
