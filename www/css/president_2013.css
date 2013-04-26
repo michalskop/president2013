@@ -1,0 +1,63 @@
+#chart {
+  height: 502px;/*502*/
+  width: 900px;
+  border: 1px solid;
+}
+
+div.tooltip 
+{
+    position: absolute;
+    text-align: center;
+    width: 140px;
+    height: 25px;
+    padding: 8px;
+    font: 10px sans-serif;
+    background: #ffff99;
+    border: solid 1px #aaa;
+    border-radius: 8px;
+    pointer-events: none;
+}
+
+circle {
+  fill: #888;
+  fill-opacity: 0.75;
+}
+/*.extra {
+  fill-opacity: 0.75;
+}*/
+.dienstbier {
+  fill: #ffa500;
+  color: #ffa500;
+}
+.sobotka {
+  fill: #008;
+  color: #008
+}
+.roithova {
+  fill: #ff0;
+  color: #ff0
+}
+.fischerova {
+  fill: #0a0;
+  color: #0a0;
+}
+.franz {
+  fill: #000;
+  color: #000;
+}
+.schwarzenberg {
+  fill: #808;
+  color: #808;
+}
+.zeman {
+  fill: #f00;
+  color: #f00;
+}
+.bobosikova {
+  fill: #ff4;
+  color: #ff4;
+}
+.fischer {
+  fill: #00f;
+  color: #00f;
+}

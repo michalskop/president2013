@@ -1,0 +1,43 @@
+#chart {
+  height: 502px;/*502*/
+  width: 900px;
+  border: 1px solid;
+}
+
+circle {
+  fill: #888;
+  fill-opacity: 0.85;
+}
+/*.extra {
+  fill-opacity: 0.75;
+}*/
+.cssd {
+  fill: #ffa500;
+}
+.ods {
+  fill: #008;
+}
+.kscm {
+  fill: #800;
+}
+.kdu-csl {
+  fill: #ff0;
+}
+.zmena {
+  fill: #0a0;
+}
+.slk {
+  fill: #abc;
+}
+.top09 {
+  fill: #808;
+}
+.scz {
+  fill: #f00;
+}
+.hzhrom {
+  fill: #9ab;
+}
+.vv {
+  fill: #00f;
+}
